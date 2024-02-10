@@ -33,6 +33,7 @@ Our project aims to develop a web application called "Blogger's Hub" that provid
 **Then**: The comment is displayed on the post and other users can respond to it. 
 
 ## Class Diagram
+![StoryBoard](https://github.com/patel6nr/Group3FinalProject/assets/122308867/22f75fe5-e43e-411f-bd4b-91e01be0098a) 
 ### Class Diagram Description 
 
 ## JSON Schema
