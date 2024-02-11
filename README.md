@@ -5,6 +5,7 @@ By Nirav Patel, Ossebi Guy-Lero, Le Duc Toan.
 Our project aims to develop a web application called "Blogger's Hub" that provides a platform for bloggers to create, publish, and share their content with readers. The application will offer a user-friendly interface for both writers and readers, fostering a community where bloggers can engage with their audience and grow their following. 
 
 ## Story Board
+![StoryBoard](https://github.com/patel6nr/Group3FinalProject/assets/122308867/c9d79d32-4251-4b25-ad7c-12f7d1985363)
 
 ## Requirements
  
@@ -35,6 +36,8 @@ Our project aims to develop a web application called "Blogger's Hub" that provid
 ## Class Diagram
 ![StoryBoard](https://github.com/patel6nr/Group3FinalProject/assets/122308867/22f75fe5-e43e-411f-bd4b-91e01be0098a) 
 ### Class Diagram Description 
+The class diagram shows how a user can create his/her own blog. The user can also view blogs posted by other users and also comment, like and share the blog.
+Bloggers Hub also allows the user to filter blogs using category, tag and date posted.
 
 ## JSON Schema
 This is what we plan to export to another app.
@@ -63,11 +66,11 @@ This is what we plan to export to another app.
 
 
 ## Team Members and Roles
-UI Specialist:
+**UI Specialist**: Ossebi Guy-Lero
 
-Business Logic/ Persistence:
+**Business Logic/ Persistence**: Le Duc Toan
 
-DevOps/Product Owner/Scrum Master/GitHub Admin: 
+**DevOps/Product Owner/Scrum Master/GitHub Admin**: Nirav Patel
 
 
 
