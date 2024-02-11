@@ -72,6 +72,7 @@ This is what we plan to export to another app.
 
 **DevOps/Product Owner/Scrum Master/GitHub Admin**: Nirav Patel
 
+**Team Meeting**: Every Sunday evenings Between 6pm to 8pm
 
 
 
