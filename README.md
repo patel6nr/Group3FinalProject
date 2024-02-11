@@ -64,6 +64,22 @@ This is what we plan to export to another app.
 >         "author": { "type": "string" } 
 >    } 
 
+## Milestones
+**Milestone #1**: Basic Functionality
+Tasks Associated:
+- Set up project repository
+- Design database schema for blog posts
+- Create user authentication system
+- Implement basic functionality for blog posts
+- Develop user interface for posting blogs
+- Design homepage to display recent blog posts
+- Write basic tests for functionality
+  
+**Milestone #2**: Enhanced Features
+- No projects or tasks defined yet. To be planned in upcoming meetings.
+  
+**Milestone #3**: Social Features
+- No projects or tasks defined yet. To be planned in upcoming meetings.
 
 ## Team Members and Roles
 **UI Specialist**: Ossebi Guy-Lero
