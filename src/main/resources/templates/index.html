@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Bloggers Hub</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+    <header>
+        <div th:replace="fragments/navigation :: nav"></div>
+    </header>
+
+<main>
+
+    <div class="watermark-container">
+        <img class="watermark" th:src="@{/images/blogger.jpg}" alt="blogger">
+        <p class="watermark-text">Start your blogging odyssey fueled by your imagination</p>
+        <p class="additional-text">Join us today!</p>
+        <a href="signup">
+            <button class="signup-button">Sign Up</button>
+        </a>
+    </div>
+
+</main>
+
+<footer>
+    <p>Explore the latest blog posts and connect with fellow bloggers.</p>
+</footer>
+
+</body>
+</html>
